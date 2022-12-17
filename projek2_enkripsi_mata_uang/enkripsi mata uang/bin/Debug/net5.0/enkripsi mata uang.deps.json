@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "enkripsi mata uang/1.0.0": {
+        "runtime": {
+          "enkripsi mata uang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enkripsi mata uang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

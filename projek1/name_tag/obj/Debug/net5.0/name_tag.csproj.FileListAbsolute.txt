@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\name_tag\obj\Debug\net5.0\name_tag.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\name_tag\obj\Debug\net5.0\name_tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\name_tag\obj\Debug\net5.0\name_tag.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\name_tag\obj\Debug\net5.0\name_tag.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\name_tag\obj\Debug\net5.0\name_tag.csproj.CoreCompileInputs.cache

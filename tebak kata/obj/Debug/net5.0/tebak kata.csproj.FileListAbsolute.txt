@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.exe
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.deps.json
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.dll
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\ref\tebak kata.dll
+C:\Users\HP\OneDrive\Desktop\tebak kata\bin\Debug\net5.0\tebak kata.pdb
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.dll
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\ref\tebak kata.dll
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.pdb
+C:\Users\HP\OneDrive\Desktop\tebak kata\obj\Debug\net5.0\tebak kata.genruntimeconfig.cache

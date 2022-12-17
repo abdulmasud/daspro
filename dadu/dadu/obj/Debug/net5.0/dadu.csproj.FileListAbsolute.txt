@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.exe
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.deps.json
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.dll
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\ref\dadu.dll
+C:\Users\HP\OneDrive\Desktop\dadu\bin\Debug\net5.0\dadu.pdb
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.dll
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\ref\dadu.dll
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.pdb
+C:\Users\HP\OneDrive\Desktop\dadu\obj\Debug\net5.0\dadu.genruntimeconfig.cache

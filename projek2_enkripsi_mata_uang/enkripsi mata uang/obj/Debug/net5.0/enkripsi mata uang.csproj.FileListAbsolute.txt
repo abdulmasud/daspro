@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.exe
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.deps.json
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.dll
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\ref\enkripsi mata uang.dll
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\bin\Debug\net5.0\enkripsi mata uang.pdb
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.dll
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\ref\enkripsi mata uang.dll
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.pdb
+C:\Users\HP\OneDrive\Desktop\enkripsi mata uang\obj\Debug\net5.0\enkripsi mata uang.genruntimeconfig.cache

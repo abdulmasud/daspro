@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.exe
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.deps.json
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.dll
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\ref\adventure game.dll
+C:\Users\HP\OneDrive\Desktop\adventure game\bin\Debug\net5.0\adventure game.pdb
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.dll
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\ref\adventure game.dll
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.pdb
+C:\Users\HP\OneDrive\Desktop\adventure game\obj\Debug\net5.0\adventure game.genruntimeconfig.cache

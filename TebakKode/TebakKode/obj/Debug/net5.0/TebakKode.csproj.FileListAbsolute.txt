@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.exe
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.deps.json
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.dll
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\ref\TebakKode.dll
+C:\Users\HP\OneDrive\Desktop\TebakKode\bin\Debug\net5.0\TebakKode.pdb
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.dll
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\ref\TebakKode.dll
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.pdb
+C:\Users\HP\OneDrive\Desktop\TebakKode\obj\Debug\net5.0\TebakKode.genruntimeconfig.cache

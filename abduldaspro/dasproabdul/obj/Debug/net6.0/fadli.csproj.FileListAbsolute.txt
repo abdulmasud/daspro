@@ -1,0 +1,45 @@
+C:\Users\Fauzi\Desktop\fadli\bin\Debug\net6.0\fadli.exe
+C:\Users\Fauzi\Desktop\fadli\bin\Debug\net6.0\fadli.deps.json
+C:\Users\Fauzi\Desktop\fadli\bin\Debug\net6.0\fadli.runtimeconfig.json
+C:\Users\Fauzi\Desktop\fadli\bin\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\fadli\bin\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.csproj.AssemblyReference.cache
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.AssemblyInfoInputs.cache
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.AssemblyInfo.cs
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.csproj.CoreCompileInputs.cache
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\refint\fadli.dll
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\fadli.genruntimeconfig.cache
+C:\Users\Fauzi\Desktop\fadli\obj\Debug\net6.0\ref\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro\bin\Debug\net6.0\fadli.exe
+C:\Users\Fauzi\Desktop\Daspro\bin\Debug\net6.0\fadli.deps.json
+C:\Users\Fauzi\Desktop\Daspro\bin\Debug\net6.0\fadli.runtimeconfig.json
+C:\Users\Fauzi\Desktop\Daspro\bin\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro\bin\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.csproj.AssemblyReference.cache
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.AssemblyInfoInputs.cache
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.AssemblyInfo.cs
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.csproj.CoreCompileInputs.cache
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\refint\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\fadli.genruntimeconfig.cache
+C:\Users\Fauzi\Desktop\Daspro\obj\Debug\net6.0\ref\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro Fadli\bin\Debug\net6.0\fadli.exe
+C:\Users\Fauzi\Desktop\Daspro Fadli\bin\Debug\net6.0\fadli.deps.json
+C:\Users\Fauzi\Desktop\Daspro Fadli\bin\Debug\net6.0\fadli.runtimeconfig.json
+C:\Users\Fauzi\Desktop\Daspro Fadli\bin\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro Fadli\bin\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.csproj.AssemblyReference.cache
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.AssemblyInfoInputs.cache
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.AssemblyInfo.cs
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.csproj.CoreCompileInputs.cache
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\refint\fadli.dll
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.pdb
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\fadli.genruntimeconfig.cache
+C:\Users\Fauzi\Desktop\Daspro Fadli\obj\Debug\net6.0\ref\fadli.dll

@@ -1,0 +1,30 @@
+C:\Users\Fauzi\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).exe
+C:\Users\Fauzi\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).deps.json
+C:\Users\Fauzi\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).runtimeconfig.json
+C:\Users\Fauzi\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).dll
+C:\Users\Fauzi\Desktop\New folder (2)\bin\Debug\net6.0\New folder (2).pdb
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.AssemblyReference.cache
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).AssemblyInfo.cs
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).dll
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\refint\New folder (2).dll
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).pdb
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\New folder (2).genruntimeconfig.cache
+C:\Users\Fauzi\Desktop\New folder (2)\obj\Debug\net6.0\ref\New folder (2).dll
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\bin\Debug\net6.0\New folder (2).exe
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\bin\Debug\net6.0\New folder (2).deps.json
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\bin\Debug\net6.0\New folder (2).runtimeconfig.json
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\bin\Debug\net6.0\New folder (2).dll
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\bin\Debug\net6.0\New folder (2).pdb
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).csproj.AssemblyReference.cache
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).AssemblyInfo.cs
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).dll
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\refint\New folder (2).dll
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).pdb
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\New folder (2).genruntimeconfig.cache
+C:\Users\Fauzi\Desktop\Daspro Hello world C#\obj\Debug\net6.0\ref\New folder (2).dll

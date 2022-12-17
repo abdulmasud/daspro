@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.exe
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.deps.json
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.dll
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\ref\alfabet.dll
+C:\Users\HP\OneDrive\Desktop\alfabet\bin\Debug\net5.0\alfabet.pdb
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.dll
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\ref\alfabet.dll
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.pdb
+C:\Users\HP\OneDrive\Desktop\alfabet\obj\Debug\net5.0\alfabet.genruntimeconfig.cache

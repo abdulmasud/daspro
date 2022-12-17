@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>To Do App menggunakan VueJS</title>
+</head>
+<body>
+    <div id="app">
+        <p>{{nama}}</p>
+        <h1>To Do App with VueJS</h1>
+        <input type="text" v-model="teks">
+        <button v-on:click="tambahMK">Tambah List MK</button>
+        <ul>
+            <li v-for="(mk, index) in matkul" v-on:click="hapus(index)">{{mk}}</li>
+        </ul>
+    </div>
+    <script>
+        var app = new Vue({
+            el:"#app",
+            data:{
+                nama:"abdol",
+                matkul:[],
+                teks: ''
+            },
+            methods:{
+                ubahNama: function(){
+                    this.nama = "Basis Data";
+                },
+                tambahMK: function(input){
+                    if(this.teks.trim() == '') {
+                        return;
+                    }
+                    this.matkul.push(this.teks);
+                },
+                hapus: function(i) {
+                    this.matkul.splice(i, 1);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
